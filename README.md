@@ -2,6 +2,8 @@
  <img src="https://user-images.githubusercontent.com/9372893/40866937-1fef04ea-65c6-11e8-95a5-5f5737b237df.png" width="400">
 </div>
 
+---
+
 Eva 360 es un sistema de **R.R.H.H.** (recursos humanos) que facilita el proceso de la **evaluación del rendimiento** de los trabajadores de una empresa. Para dicha evaluación se usarán los llamados *Exámenes 360*. De esta manera, el sistema maneja diferentes tipos de usuario con diferentes niveles de aceso.
 
 Adicionalmente EVA 360, brinda un *muro organizacional* en el que de forma similiar a **Facebook** o **Twitter** todos los miembros de la institución podrán compartir contenido y publicar **posts**.
@@ -25,7 +27,7 @@ Microsoft empezó a contribuir con tecnologías y herramientas a la comunidad Op
 
 Proyectos notables: la **compra de Xamarin**, el nacimiento del fenómeno llamado **Azure**, la creación de los **UWP**.
 
-Y por su puesto, lo que más nos sorprendió es un completo *rewrite* a una tecnología con más de 10 años en el mercado, volviéndola **Open Source**, **Moderna**, **Portable**, **Escalable**, **Potente** y **Multi-plataforma**. Este ha sido el caso de *NET Framework*, que ahora adopta el nombre de **NET Core**. No se puede evitar resaltar el hecho de que **NET Core** ha sido construida desde el inicio pensando en arquitectura de **microservicios**.
+Y por supuesto, lo que más nos sorprendió es un completo *rewrite* a una tecnología con más de 10 años en el mercado, volviéndola **Open Source**, **Moderna**, **Portable**, **Escalable**, **Potente** y **Multi-plataforma**. Este ha sido el caso de *NET Framework*, que ahora adopta el nombre de **NET Core**. No se puede evitar resaltar el hecho de que **NET Core** ha sido construida desde el inicio pensando en arquitectura de **microservicios**.
 
 ### Frontend Framework ###
 
